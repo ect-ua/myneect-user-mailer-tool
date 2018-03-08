@@ -1,0 +1,10 @@
+db_server = "DB_SERVER"
+db_name = "DB_NAME"
+db_user = "DB_USER"
+db_password = "DB_PASSWORD"
+db_port = 9000
+mail_login = "email@example.com"
+mail_password = "EMAIL_PASSWORD"
+mail_server = "EMAIL_SERVER"
+#mail_port = 587
+mail_port = 25
